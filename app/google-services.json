@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144532734514",
+    "project_id": "fpm-and-fcm",
+    "storage_bucket": "fpm-and-fcm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144532734514:android:b25ad3e26c952e483db22b",
+        "android_client_info": {
+          "package_name": "com.anondo.firebasepushnotificationandcloudmessasing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3O8SUZ5Nzv5RbNj4lCYx6weQiBsMt6c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
